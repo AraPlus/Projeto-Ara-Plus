@@ -1,0 +1,2 @@
+git remote add origin https://github.com/AraPlus/Projeto-Ara-Plus.git
+git push -u origin master
