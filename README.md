@@ -6,6 +6,24 @@ O nome "Ara" vem do Tupi-Guarani e significa "ar". Portanto o nome Ara-Plus reun
 
 ## Descrição do sistema
 
+## Lista de Material
+Descrição de todas os materiais e peças usados no Ara Plus separados por categorias:
+
+### Partes Eletrônicas
+-
+-
+-
+### Partes Mecânicas
+-
+-
+-
+-
+### Partes médicas
+-
+-
+-
+-
+
 ## Desenhos de Fabricação
 
 ## Desenhos de CAD
@@ -25,6 +43,28 @@ Este projeto foi contemplado pela chamada Interna de Prospecção Para Apoio a P
 Valor do financiamento: R$ 8.957,60
 
 [http://www.ufabc.edu.br/images/reitoria/documentos/edital-42_2020-chamada-de-propostas-covid-19.pdf]
+
+
+## Lista de Compras 
+Tabela com todos os itens adquiridos para o desenvolvimento deste projeto
+
+Data da Compra  | Descrição do item | Quem comprou? | Origem do Recurso | Valor (R$)  
+--------------- | ------------------|---------------|-------------------|------------
+01/01/1900 | Exemplo 1 | Olavo | Do bolso | 10,00 
+02/01/1900 | Exemplo 2 | Fulano | Edital UFABC | 20,00 
+03/01/1900 | Exemplo 3 | Cicrano | Doação empresa XX | 0,00 
+
+
+## Glossário
+Aqui encontram-se os principais termos e siglas usados no desenvolvimento deste projeto juntamente com o seu significado:
+- AMBU
+- Filtro HEPA
+- Filtro HMEF
+- Filtro Humidificador
+- PEEP: Positive end-expiratory pressure (https://en.wikipedia.org/wiki/Positive_end-expiratory_pressure)
+- Válvula VAP (?)
+- Válvula VUP
+- 
 
 ## Equipe
 - Olavo Luppi Silva - Professor Adjunto - Eng. Biomédica/UFABC
