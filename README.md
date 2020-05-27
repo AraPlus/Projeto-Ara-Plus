@@ -4,7 +4,7 @@ Repositório de projeto de Ventilador Pulmonar desenvolvido por estudantes e alu
 ## Origem do Nome
 O nome "Ara" vem do Tupi-Guarani e significa "ar". Portanto o nome Ara-Plus reune uma palava genuinamente brasileira com uma palavra do inglês reconhecida em todo o mundo, significando literalmente "mais ar".
 
-## Descrição do sistema
+## Descrição geral do sistema
 
 ## Lista de Material
 Descrição de todas os materiais e peças usados no Ara Plus separados por categorias:
@@ -24,9 +24,9 @@ Descrição de todas os materiais e peças usados no Ara Plus separados por cate
 -
 -
 
-## Desenhos de Fabricação
+## Desenhos de Fabricação / Arquivos de CAD
+As informações sobre os desenhos de fabricação das partes mecânicas do AraPlus encontram-se [aqui](desenhos/DESENHOS.md)
 
-## Desenhos de CAD
 
 ## Fotos
 
@@ -44,6 +44,7 @@ Valor do financiamento: R$ 8.957,60
 
 [http://www.ufabc.edu.br/images/reitoria/documentos/edital-42_2020-chamada-de-propostas-covid-19.pdf]
 
+Maiores informações sobre editais com os respectivos projetos submetidos encontram-se [aqui](editais/EDITAIS.md).
 
 ## Lista de Compras 
 Tabela com todos os itens adquiridos para o desenvolvimento deste projeto
@@ -58,7 +59,7 @@ Data da Compra  | Descrição do item | Quem comprou? | Origem do Recurso | Valo
 ## Glossário
 Aqui encontram-se os principais termos e siglas usados no desenvolvimento deste projeto juntamente com o seu significado:
 - AMBU
-- Filtro HEPA
+- Filtro HEPA  = High Efficiency Particulate Air 
 - Filtro HMEF
 - Filtro Humidificador
 - PEEP: Positive end-expiratory pressure ou Pressão Positiva ao Final da Expiração (https://en.wikipedia.org/wiki/Positive_end-expiratory_pressure)
@@ -66,21 +67,23 @@ Aqui encontram-se os principais termos e siglas usados no desenvolvimento deste 
 - Válvula VUP
 - PCV = Pressão Controlada Ciclado a Tempo;
 - VCV = Volume Controlado ou Ciclado a Volume;
-- PSV = Ventilação com Pressão de Suporte HEPA = High Efficiency Particulate Air 
+- PSV = Ventilação com Pressão de Suporte HEPA
 - FiO2 = Fração Inspirada de Oxigênio,
 
 ## Equipe
-- Olavo Luppi Silva - Professor Adjunto - Eng. Biomédica/UFABC
-- Erick Dario Leon Bueno de Camargo - Professor Adjunto - Eng. Biomédica/UFABC
-- Hermann Windisch Neto - Aluno de doutorado no programa de Biotecnociência/UFABC
+- [Olavo Luppi Silva](http://ebm.ufabc.edu.br/docentes/olavo-luppi/) - Professor Adjunto - Eng. Biomédica/UFABC
+- [Erick Dario Leon Bueno de Camargo](http://ebm.ufabc.edu.br/docentes/erickleon/) - Professor Adjunto - Eng. Biomédica/UFABC
+- Hermann Windisch Neto - Aluno de doutorado no programa de [Biotecnociência/UFABC](http://propg.ufabc.edu.br/biotecnociencia/)
 - Victor Allisson da Silva - Aluno da graduação da Engenharia Biomédica/UFABC
 - Danilo Luna Campos - Aluno da graduação da Engenharia Biomédica
-- Paulo Rodrigues - Aluno especial de mestrado no PPGEBM
+- Paulo Rodrigues - Aluno especial de mestrado no [PPGEBM](http://ebm.ufabc.edu.br/pos-graduacao/ppgebm/)
 - Ana Tércia Lacerda de Araújo - Aluna de graduação do BC&T
 - Ivan Correia Lima Coqueiro - Aluno de graduação do BC&T
-- Jaqueline Badanai - Aluna de mestrado da PPGEBM
+- Jaqueline Badanai - Aluna de mestrado da [PPGEBM](http://ebm.ufabc.edu.br/pos-graduacao/ppgebm/)
 - Danilo Buchdid - Colaborador externo
 - Roberto Asano Junior - Pesquisador Pós-Doc - Eng. de Energia/UFABC
+- Edson Rodrigues - Aluno de mestrado no [PPGEBM](http://ebm.ufabc.edu.br/pos-graduacao/ppgebm/)
+
 
 ## Parceiros
  - FMABC: testes clínicos
