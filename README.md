@@ -61,10 +61,13 @@ Aqui encontram-se os principais termos e siglas usados no desenvolvimento deste 
 - Filtro HEPA
 - Filtro HMEF
 - Filtro Humidificador
-- PEEP: Positive end-expiratory pressure (https://en.wikipedia.org/wiki/Positive_end-expiratory_pressure)
+- PEEP: Positive end-expiratory pressure ou Pressão Positiva ao Final da Expiração (https://en.wikipedia.org/wiki/Positive_end-expiratory_pressure)
 - Válvula VAP (?)
 - Válvula VUP
-- 
+- PCV = Pressão Controlada Ciclado a Tempo;
+- VCV = Volume Controlado ou Ciclado a Volume;
+- PSV = Ventilação com Pressão de Suporte HEPA = High Efficiency Particulate Air 
+- FiO2 = Fração Inspirada de Oxigênio,
 
 ## Equipe
 - Olavo Luppi Silva - Professor Adjunto - Eng. Biomédica/UFABC
