@@ -72,7 +72,7 @@ Aqui encontram-se os principais termos e siglas usados no desenvolvimento deste 
 
 ## Equipe
 - [Olavo Luppi Silva](http://ebm.ufabc.edu.br/docentes/olavo-luppi/) - Professor Adjunto - Eng. Biomédica/UFABC
-- [Erick Dario Leon Bueno de Camargo](http://ebm.ufabc.edu.br/docentes/erickleon/) - Professor Adjunto - Eng. Biomédica/UFABC
+- [Erick Dario León Bueno de Camargo](http://ebm.ufabc.edu.br/docentes/erickleon/) - Professor Adjunto - Eng. Biomédica/UFABC
 - Hermann Windisch Neto - Aluno de doutorado no programa de [Biotecnociência/UFABC](http://propg.ufabc.edu.br/biotecnociencia/)
 - Victor Allisson da Silva - Aluno da graduação da Engenharia Biomédica/UFABC
 - Danilo Luna Campos - Aluno da graduação da Engenharia Biomédica
