@@ -6,6 +6,21 @@ O nome "Ara" vem do Tupi-Guarani e significa "ar". Portanto o nome Ara-Plus reun
 
 ## Descrição geral do sistema
 
+### Requisitos
+
+Conforme destacado pela AMIB – [Associação de Medicina Intensiva Brasileira]() – em sua nota técnica ["Nota técnica sobre características de aparelhos ventiladores artificiais no suporte ao paciente com COVID-19"](http://www.amib.org.br/fileadmin/user_upload/amib/2020/abril/26/Nota_te__cnica_sobre_caracteri__sticas_de_aparelhos_ventiladores_artificiais_no_suporte_ao_paciente_com_COVID-19.pdf) de 26 de abril de 2020 e que atualmente (29/05/2020) subsidia o [PROJETO DE LEI N° 2294, DE 2020, em tramitação no senado,](https://www25.senado.leg.br/web/atividade/materias/-/materia/142132): "No atual cenário de pandemia por COVID-19, diante de uma situação de exceção decorrente do grande número de pacientes com necessidade de ventilação mecânica, listamos abaixo as especificações MÍNIMAS que um ventilador mecânico deve apresentar para ventilar pacientes com COVID-19, em qualquer unidade (pronto socorro, UTI ou outras unidades). Essas características devem estar presentes, independentemente de o equipamento ser ventilador de transporte ou não, ser novo ou reformado:
+1. MODOS VCV e/ou PCV;
+2. CONTROLE DE DELTA DE PRESSÃO (SOBRE A PEEP) NO MODO PCV (DE 5 A 30 cmH2O) E CONTROLE DE VOLUME CORRENTE INSPIRADO NO MODO VCV (de 50 A 700 ML);
+3. CONTROLE DE FiO2 (21 a 100%);
+4. PEEP (0 ATE 20 cm H2O);
+5. CONTROLE DE TEMPO INSPIRATÓRIO (NO MODO PCV) EM SEGUNDOS (0,3 - 2,0 S) E FLUXO INSPIRATÓRIO (NO MODO VCV) - ATÉ 70L/MIN;
+6. CONTROLE DE FREQUÊNCIA RESPIRATÓRIA - 8 a 40 RPM;
+7. MEDIDA DE PRESSÃO DE VIAS AÉREAS (MANÔMETRO ANALÓGICO OU DIGITAL);
+8. MEDIDA DE VOLUME CORRENTE EXPIRADO SEMPRE QUE POSSÍVEL;
+9. ALARME DE PRESSÃO MÁXIMA EM VIAS ÁEREAS, VAZAMENTO E QUEDA DE REDE DE GASES;
+10. POSSIBILIDADE DE ANEXAR FILTRO TIPO HEPA DE ALTA CAPACIDADE (N99 OU N100) NO RAMO EXPIRATÓRIO;
+11. SE POSSÍVEL, POSSUIR BATERIA COM PELO MENOS 2 HORAS DE CAPACIDADE."
+
 ## Lista de Material
 Descrição de todas os materiais e peças usados no Ara Plus separados por categorias:
 
