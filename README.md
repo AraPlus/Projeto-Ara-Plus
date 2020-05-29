@@ -10,15 +10,18 @@ O nome "Ara" vem do Tupi-Guarani e significa "ar". Portanto o nome Ara-Plus reun
 Descrição de todas os materiais e peças usados no Ara Plus separados por categorias:
 
 ### Partes Eletrônicas
+![](Images/acionamento.PNG)
 -
 -
 -
 ### Partes Mecânicas
+![](Images/mecanico.PNG)
 -
 -
 -
 -
 ### Partes médicas
+![](Images/pneumatico.PNG)
 -
 -
 -
@@ -30,10 +33,13 @@ As informações sobre os desenhos de fabricação das partes mecânicas do AraP
 
 ## Fotos
 
+
 ## Cronologia do Desenvolvimento
 Data dos principais marcos do desenvolvimento do Ara-Plus
 
+- 18/05/2020: Finalizada a montagem do projeto mecânico
 - 06/04/2020: Submissão de projeto para edital interno de pesquisa
+- 03/04/2020: Testes do protótipo conceitual
 - 19/03/2020: Formação do grupo de desenvolvimento 
 - 16/03/2020: Início da suspensão das aulas na UFABC devido à pandemia
 - 11/03/2020: Declaração de pandemia de COVID-19 pela OMS
@@ -81,9 +87,9 @@ Aqui encontram-se os principais termos e siglas usados no desenvolvimento deste 
 - Ivan Correia Lima Coqueiro - Aluno de graduação do BC&T
 - Jaqueline Badanai - Aluna de mestrado da [PPGEBM](http://ebm.ufabc.edu.br/pos-graduacao/ppgebm/)
 - Danilo Buchdid - Colaborador externo
-- Roberto Asano Junior - Pesquisador Pós-Doc - Eng. de Energia/UFABC
+- Roberto Asano Junior - Pesquisador Pós-Doc - [Energia/UFABC](http://pgene.ufabc.edu.br)
 - Edson Rodrigues - Aluno de mestrado no [PPGEBM](http://ebm.ufabc.edu.br/pos-graduacao/ppgebm/)
-
+- [Patrícia Teixeira Leite Asano](http://cecs.ufabc.edu.br/index.php/docentes/contatos/23-docentes/143-patricia-teixeira-leite-asano.html) - Professor Associado - Eng. Energia/UFABC
 
 ## Parceiros
  - FMABC: testes clínicos
