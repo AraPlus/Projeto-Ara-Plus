@@ -38,6 +38,7 @@ As informações sobre os desenhos de fabricação das partes mecânicas do AraP
 Data dos principais marcos do desenvolvimento do Ara-Plus
 
 - 18/05/2020: Finalizada a montagem do projeto mecânico
+- 27/04/2020: Desenho mecânico do protótipo para testes
 - 06/04/2020: Submissão de projeto para edital interno de pesquisa
 - 03/04/2020: Testes do protótipo conceitual
 - 19/03/2020: Formação do grupo de desenvolvimento 
