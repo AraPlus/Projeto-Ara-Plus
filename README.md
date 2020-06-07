@@ -83,9 +83,9 @@ Acionamento Mecânico
 
 ![](Images/Fotos/AraPlus_1.jpeg)
 
-![](Images/Fotos/AraPlus_1.jpeg)
+![](Images/Fotos/AraPlus_2.jpeg)
 
-![](Images/Fotos/AraPlus_1.jpeg)
+![](Images/Fotos/AraPlus_3.jpeg)
 
 
 ## Cronologia do Desenvolvimento
