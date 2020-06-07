@@ -25,10 +25,36 @@ Conforme destacado pela AMIB – [Associação de Medicina Intensiva Brasileira]
 Descrição de todas os materiais e peças usados no Ara Plus separados por categorias:
 
 ### Partes Eletrônicas
-![](Images/acionamento.PNG)
--
--
--
+
+**Diagrama elétrico do acionamento**
+![](Images/diagrama_acionamento.png)
+
+**Lista de materiais do acionamento**
+ | Referência | Quantidade | Especificação | 
+ | --------------- | --------------- | --------------- | 
+ | A1 | 1 | Arduino_Nano_v3.x | 
+ | BT1, BT2 | 2 | Bateria_12V/ 7Ah | 
+ | BZ1 | 1 | Buzzer ativo 5V | 
+ | C1, C3, C4 | 3 | Capacitor 0.33uF | 
+ | C2, C5 | 2 | Capacitor 0.1uF | 
+ | D1, D2, D3, D4, D5 | 5 | Diodo 1N4007 | 
+ | M1 | 1 | Motor_DC | 
+ | Q1 | 1 | Transistor BC337 | 
+ | R1, R2 | 2 | Resistor 10K | 
+ | RV1 | 1 | Trimpot 10K | 
+ | RV2 | 1 | Potenciômetro 10K | 
+ | R3, R5, R6, R7, R8 | 5 | Resistor 1K | 
+ | R4 | 1 | Resistor 150R | 
+ | S1, S2 | 2 | Sensor_Indutivo_NPN 12mm | 
+ | SW1, SW2 | 2 | Acionador_Push_Buttom | 
+ | U1 | 1 | Display alfanumérico 4 x 20 NHD-0420H1Z | 
+ | U2, U3, U4 | 3 | Optoacoplador PC817 | 
+ | U5 | 1 | Módulo Ponte H - L298N | 
+ | U6, U7 | 2 | Regulador L7805 | 
+ | U8 | 1 | Regulador L7812 | 
+ | +24V | 1 | Fonte 24V - 5A |
+
+
 ### Partes Mecânicas
 ![](Images/mecanico.PNG)
 -
@@ -37,11 +63,16 @@ Descrição de todas os materiais e peças usados no Ara Plus separados por cate
 -
 ### Partes médicas
 
-Propostas em estudo do circuito pneumático
-![](Images/pneumatico_proposta1.jpeg)
-![](Images/pneumatico_proposta2.jpeg)
-![](Images/pneumatico_proposta3.jpeg)
+Propostas em estudo do circuito pneumático:
 
+![](Images/pneumatico_proposta1.jpeg)
+**Tipo 1 - Com válvula VUP**
+
+![](Images/pneumatico_proposta2.jpeg)
+**Tipo 2 - Com Diverter e a válvula VAP tampada de um lado**
+
+![](Images/pneumatico_proposta3.jpeg)
+**Tipo 3 - Com a hipótese do *Diverter* para encaixe na VAP**
 
 
 ## Desenhos de Fabricação / Arquivos de CAD
@@ -54,8 +85,11 @@ As informações sobre os desenhos de fabricação das partes mecânicas do AraP
 ## Cronologia do Desenvolvimento
 Data dos principais marcos do desenvolvimento do Ara-Plus
 
+- 07/06/2020: Finalizada a montagem do circuito de acionamento e controle
 - 06/06/2020: Elaboração das propostas circuito pneumático
+- 03/03/2020: Correções a aprimoramento do acionador
 - 01/06/2020: Submissão do projeto para [edital IEEE](https://hac.ieee.org/funding-opportunities/covid-19-projects/)
+- 34/05/2020: Calibração do circuito condicionador do transdutor de pressão MPS20
 - 18/05/2020: Finalizada a montagem do projeto mecânico
 - 27/04/2020: Desenho mecânico do protótipo para testes
 - 06/04/2020: Submissão de projeto para edital interno de pesquisa
@@ -114,9 +148,8 @@ Aqui encontram-se os principais termos e siglas usados no desenvolvimento deste 
 ## Parceiros
  - FMABC: testes clínicos
  - Ventisilva: manufatura
-
-## Agradecimentos
- Dcryl Design em Acrílico (Campinas)
  
- Instituto Mauá de Tecnologia
+## Agradecimentos
+ - Dcryl Design em Acrílico (Campinas)
+ - Instituto Mauá de Tecnologia
  
