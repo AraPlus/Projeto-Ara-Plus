@@ -36,11 +36,13 @@ Descrição de todas os materiais e peças usados no Ara Plus separados por cate
 -
 -
 ### Partes médicas
-![](Images/pneumatico.PNG)
--
--
--
--
+
+Propostas em estudo do circuito pneumático
+![](Images/pneumatico_proposta1.jpeg)
+![](Images/pneumatico_proposta2.jpeg)
+![](Images/pneumatico_proposta3.jpeg)
+
+
 
 ## Desenhos de Fabricação / Arquivos de CAD
 As informações sobre os desenhos de fabricação das partes mecânicas do AraPlus encontram-se [aqui](desenhos/DESENHOS.md)
@@ -52,6 +54,8 @@ As informações sobre os desenhos de fabricação das partes mecânicas do AraP
 ## Cronologia do Desenvolvimento
 Data dos principais marcos do desenvolvimento do Ara-Plus
 
+- 06/06/2020: Elaboração das propostas circuito pneumático
+- 01/06/2020: Submissão do projeto para [edital IEEE](https://hac.ieee.org/funding-opportunities/covid-19-projects/)
 - 18/05/2020: Finalizada a montagem do projeto mecânico
 - 27/04/2020: Desenho mecânico do protótipo para testes
 - 06/04/2020: Submissão de projeto para edital interno de pesquisa
