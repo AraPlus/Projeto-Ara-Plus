@@ -71,7 +71,7 @@ Propostas em estudo do circuito pneumático:
 ![](Images/pneumatico_proposta2.jpeg)
 **Tipo 2 - Com Diverter e a válvula VAP tampada de um lado**
 
-![](Images/pneumatico_proposta3.jpeg)
+![](Images/pneumatico_proposta_3.jpeg)
 **Tipo 3 - Com a hipótese do *Diverter* para encaixe na VAP**
 
 
@@ -86,8 +86,8 @@ As informações sobre os desenhos de fabricação das partes mecânicas do AraP
 Data dos principais marcos do desenvolvimento do Ara-Plus
 
 - 07/06/2020: Finalizada a montagem do circuito de acionamento e controle
-- 06/06/2020: Elaboração das propostas circuito pneumático
-- 03/03/2020: Correções a aprimoramento do acionador
+- 06/06/2020: Elaboração das propostas de circuito pneumático
+- 03/03/2020: Correções a aprimoramento do acionador mecânico
 - 01/06/2020: Submissão do projeto para [edital IEEE](https://hac.ieee.org/funding-opportunities/covid-19-projects/)
 - 34/05/2020: Calibração do circuito condicionador do transdutor de pressão MPS20
 - 18/05/2020: Finalizada a montagem do projeto mecânico
