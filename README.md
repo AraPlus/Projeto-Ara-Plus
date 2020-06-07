@@ -59,8 +59,11 @@ Descrição de todas os materiais e peças usados no Ara Plus separados por cate
 ![](Images/mecanico.PNG)
 -
 -
--
--
+
+## Desenhos de Fabricação / Arquivos de CAD
+As informações sobre os desenhos de fabricação das partes mecânicas do AraPlus encontram-se [aqui](desenhos/DESENHOS.md)
+
+
 ### Partes médicas
 
 Propostas em estudo do circuito pneumático:
@@ -74,12 +77,15 @@ Propostas em estudo do circuito pneumático:
 ![](Images/pneumatico_proposta_3.jpeg)
 **Tipo 3 - Com a hipótese do *Diverter* para encaixe na VAP**
 
-
-## Desenhos de Fabricação / Arquivos de CAD
-As informações sobre os desenhos de fabricação das partes mecânicas do AraPlus encontram-se [aqui](desenhos/DESENHOS.md)
-
-
 ## Fotos
+
+Acionamento Mecânico
+
+![](Images/Fotos/AraPlus_1.jpeg)
+
+![](Images/Fotos/AraPlus_1.jpeg)
+
+![](Images/Fotos/AraPlus_1.jpeg)
 
 
 ## Cronologia do Desenvolvimento
