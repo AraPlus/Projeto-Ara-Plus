@@ -32,21 +32,19 @@ Descrição de todas os materiais e peças usados no Ara Plus separados por cate
 **Lista de materiais do acionamento**
  | Referência | Quantidade | Especificação | 
  | --------------- | --------------- | --------------- | 
- | A1 | 1 | Arduino_Nano_v3.x | 
- | BT1, BT2 | 2 | Bateria_12V/ 7Ah | 
+ | A1 | 1 | Arduino Nano v3.x | 
+ | BT1, BT2 | 2 | Bateria 12V/ 7Ah | 
  | BZ1 | 1 | Buzzer ativo 5V | 
  | C1, C3, C4 | 3 | Capacitor 0.33uF | 
  | C2, C5 | 2 | Capacitor 0.1uF | 
  | D1, D2, D3, D4, D5 | 5 | Diodo 1N4007 | 
- | M1 | 1 | Motor_DC | 
+ | M1 | 1 | Motor DC | 
  | Q1 | 1 | Transistor BC337 | 
- | R1, R2 | 2 | Resistor 10K | 
  | RV1 | 1 | Trimpot 10K | 
  | RV2 | 1 | Potenciômetro 10K | 
- | R3, R5, R6, R7, R8 | 5 | Resistor 1K | 
- | R4 | 1 | Resistor 150R | 
- | S1, S2 | 2 | Sensor_Indutivo_NPN 12mm | 
- | SW1, SW2 | 2 | Acionador_Push_Buttom | 
+ | R1, R2, R3, R4, R5, R6, R7 | 7 | Resistor 1K | 
+ | S1, S2 | 2 | Sensor Indutivo NPN 12mm | 
+ | SW1, SW2 | 2 | Acionador Push Buttom | 
  | U1 | 1 | Display alfanumérico 4 x 20 NHD-0420H1Z | 
  | U2, U3, U4 | 3 | Optoacoplador PC817 | 
  | U5 | 1 | Módulo Ponte H - L298N | 
@@ -57,8 +55,7 @@ Descrição de todas os materiais e peças usados no Ara Plus separados por cate
 
 ### Partes Mecânicas
 ![](Images/mecanico.PNG)
--
--
+
 
 ## Desenhos de Fabricação / Arquivos de CAD
 As informações sobre os desenhos de fabricação das partes mecânicas do AraPlus encontram-se [aqui](desenhos/DESENHOS.md)
