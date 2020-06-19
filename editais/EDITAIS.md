@@ -5,6 +5,6 @@ Nesta páginas estão os editais que o Ventilador AraPlus concorreu bem como os 
 - [Edital interno UFABC](editais/Edital-42_2020-chamada-de-propostas-covid-19.pdf) (prazo de submissão: 05/04/2020): status **aprovado**.
 Veja [aqui](projetos/Projeto_VentiladorPulmonar_AraPlus_edital_UFABC.pdf) o projeto submetido para este edital
 
-- [Edital IEEE](Edital_IEEE-HAC-Projects-CfP-COVID-19-10-April-2020-FINAL.pdf) (prazo de submissão: 01/06/2020): status **ainda não submetido**
+- [Edital IEEE](Edital_IEEE-HAC-Projects-CfP-COVID-19-10-April-2020-FINAL.pdf) (prazo de submissão: 01/06/2020): status **submetido - em análise** Veja [aqui](projetos/Projeto submetido_IEEE-HAC.pdf) o projeto submetido para este edital
 
 
