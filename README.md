@@ -1,5 +1,5 @@
 # Projeto-Ara-Plus
-Repositório de projeto de Ventilador Pulmonar desenvolvido por estudantes e alunos da Universidade Federal do ABC (UFABC). Este é um trabalho em desenvolvimento, e ainda não está apto para casos clínicos. Futuras atualizações devem ser lançadas em breve.
+Repositório de projeto de um AMBU automatizado desenvolvido por estudantes e alunos da Universidade Federal do ABC (UFABC) para substituir um ventilador pulmonar de forma emergencial nos casos de COVID-19. Este é um trabalho em desenvolvimento, e ainda não está apto para casos clínicos. Futuras atualizações devem ser lançadas em breve.
 
 ## Origem do Nome
 O nome "Ara" vem do Tupi-Guarani e significa "ar". Portanto o nome Ara-Plus reune uma palava genuinamente brasileira com uma palavra do inglês reconhecida em todo o mundo, significando literalmente "mais ar".
@@ -85,10 +85,25 @@ Acionamento Mecânico
 ![](Images/Fotos/AraPlus_3.jpeg)
 
 
+## Descrição dos Testes Funcionais de Bancada (in vitro)
+**1) Levantamento da Relação PEEP x Pressão Expiratória Máxima (Vál. VAP) x Freq. Respiratória x Volume Inspirado**
+
+**2) Calibração Estática do Sensor de Pressão**
+
+Levantar curva de pressão medida pelo sensor MPX5500DP comparando com uma medição de pressão estática (com manômetro U ou manômetro analógico)
+
+**3) Calibração Dinâmica (valores simulados)**
+
+Comparação das curvas de pressão e volume obtidas com um sensor de reverência (Analisador de Gases Fluke VT650) com as curvas de pressão obtidas com o simulador https://girardi.blumenau.ufsc.br/sdvm/, para os mesmos parâmetros ventilatórios.
+
+**4) Calibração Dinâmica (valores experimentais)**
+
+Comparação das curvas de pressão com um sensor de reverência, com as curvas de pressão efetivamente medidas com o sensor MPX5500DP. Obs: o analisador  Fluke aparentemente só exporta com uma frequência de amostragem máxima de 1Hz, o que não dá uma boa resolução das curvas. A solução seria usar o sensor Magnamed Ventmeter que tem interface RS232.
+
 ## Cronologia do Desenvolvimento
 Data dos principais marcos do desenvolvimento do Ara-Plus
 
-- 17/06/2020: Início dos testes do circuito médico/ pneumático
+- 17/06/2020: Início dos testes do circuito médico/pneumático
 - 07/06/2020: Finalizada a montagem do circuito de acionamento e controle
 - 06/06/2020: Elaboração das propostas de circuito pneumático
 - 03/03/2020: Correções a aprimoramento do acionador mecânico
@@ -139,6 +154,7 @@ Aqui encontram-se os principais termos e siglas usados no desenvolvimento deste 
 ## Equipe
 - [Olavo Luppi Silva](http://ebm.ufabc.edu.br/docentes/olavo-luppi/) - Professor Adjunto - Eng. Biomédica/UFABC
 - [Erick Dario León Bueno de Camargo](http://ebm.ufabc.edu.br/docentes/erickleon/) - Professor Adjunto - Eng. Biomédica/UFABC
+- [Harki Tanaka](http://ebm.ufabc.edu.br/docentes/harki-tanaka/) - Professor Adjunto - Eng. Biomédica/UFABC
 - Hermann Windisch Neto - Aluno de doutorado no programa de [Biotecnociência/UFABC](http://propg.ufabc.edu.br/biotecnociencia/)
 - Victor Allisson da Silva - Aluno da graduação da Engenharia Biomédica/UFABC
 - Danilo Luna Campos - Aluno da graduação da Engenharia Biomédica
