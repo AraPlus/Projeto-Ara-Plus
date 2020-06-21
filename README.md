@@ -88,15 +88,18 @@ Acionamento Mecânico
 ## Cronologia do Desenvolvimento
 Data dos principais marcos do desenvolvimento do Ara-Plus
 
+- 17/06/2020: Início dos testes do circuito médico/ pneumático
 - 07/06/2020: Finalizada a montagem do circuito de acionamento e controle
 - 06/06/2020: Elaboração das propostas de circuito pneumático
 - 03/03/2020: Correções a aprimoramento do acionador mecânico
 - 01/06/2020: Submissão do projeto para [edital IEEE](https://hac.ieee.org/funding-opportunities/covid-19-projects/)
-- 34/05/2020: Calibração do circuito condicionador do transdutor de pressão MPS20
+- 31/05/2020: Calibração do circuito condicionador do transdutor de pressão MPS20
 - 18/05/2020: Finalizada a montagem do projeto mecânico
 - 27/04/2020: Desenho mecânico do protótipo para testes
+- 09/04/2019: Início do desenvolvimento do software
 - 06/04/2020: Submissão de projeto para edital interno de pesquisa
 - 03/04/2020: Testes do protótipo conceitual
+- 23/03/2020: Publicação do projeto conceitual (Tinkercad)
 - 19/03/2020: Formação do grupo de desenvolvimento 
 - 16/03/2020: Início da suspensão das aulas na UFABC devido à pandemia
 - 11/03/2020: Declaração de pandemia de COVID-19 pela OMS
@@ -121,11 +124,11 @@ Data da Compra  | Descrição do item | Quem comprou? | Origem do Recurso | Valo
 
 ## Glossário
 Aqui encontram-se os principais termos e siglas usados no desenvolvimento deste projeto juntamente com o seu significado:
-- AMBU
+- AMBU (Artificial Manual Breathing Unit) é que uma Unidade Manual de Respiração Artificial, ou Reanimador Manual [referência](https://enfermagemilustrada.com/unidade-manual-de-respiracao-artificial-ambu-reanimador-manual/)
 - Filtro HEPA  = High Efficiency Particulate Air 
 - Filtro HMEF
 - Filtro Humidificador
-- PEEP: Positive end-expiratory pressure ou Pressão Positiva ao Final da Expiração (https://en.wikipedia.org/wiki/Positive_end-expiratory_pressure)
+- PEEP (Positive end-expiratory pressure) Pressão Positiva ao Final da Expiração [referência](https://en.wikipedia.org/wiki/Positive_end-expiratory_pressure)
 - Válvula VAP (?)
 - Válvula VUP
 - PCV = Pressão Controlada Ciclado a Tempo;
@@ -150,9 +153,11 @@ Aqui encontram-se os principais termos e siglas usados no desenvolvimento deste 
 
 ## Parceiros
  - FMABC: testes clínicos
+ - Prefer: usinagem 
  - Ventisilva: manufatura
- 
+  
 ## Agradecimentos
  - Dcryl Design em Acrílico (Campinas)
+ - IEEE R9 Jt. Chapter Energy Industry Connections
  - Instituto Mauá de Tecnologia
- 
+ - Rotary-International 
