@@ -1,0 +1,15 @@
+%---------------------------projeto ARA PLUS ------------------------------%
+%-------------------VERSÃO V03 - VENTILADOR PULMONAR UFABC ----------------%
+%--------------------------------------------------------------------------%
+
+
+Esta é a versão V3 do protótipo de ventilador Pulmonar. Próximas atualizações 
+serão realizadas.
+
+UPDATES:
+
+-Acionador de AMBU através de motor Bosch 24V
+
+Para mais detalhes verifique o repositório Projeto-Ara-Plus
+
+Updated on: 21-06-2020
