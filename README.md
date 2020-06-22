@@ -106,6 +106,10 @@ Comparação das curvas de pressão e volume obtidas com um sensor de reverênci
 
 Comparação das curvas de pressão com um sensor de reverência, com as curvas de pressão efetivamente medidas com o sensor MPS20N0040d. Obs: o analisador  Fluke aparentemente só exporta com uma frequência de amostragem máxima de 1Hz, o que não dá uma boa resolução das curvas. A solução seria usar o sensor Magnamed Ventmeter que tem interface RS232.
 
+**6) Determinação do procedimento de calibração do sensor de pressão embarcado**
+
+Estabelecer rotina de calibração do sensor de pressão. Procedimento de manutenção.
+
 ## Cronologia do Desenvolvimento
 Data dos principais marcos do desenvolvimento do Ara-Plus
 
