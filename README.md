@@ -85,20 +85,7 @@ Acionamento Mecânico
 ![](Images/Fotos/AraPlus_3.jpeg)
 
 
-## Descrição dos Testes Funcionais de Bancada (in vitro)
-**1) Levantamento da Relação PEEP x Pressão Expiratória Máxima (Vál. VAP) x Freq. Respiratória x Volume Inspirado**
 
-**2) Calibração Estática do Sensor de Pressão**
-
-Levantar curva de pressão medida pelo sensor MPX5500DP comparando com uma medição de pressão estática (com manômetro U ou manômetro analógico)
-
-**3) Calibração Dinâmica (valores simulados)**
-
-Comparação das curvas de pressão e volume obtidas com um sensor de reverência (Analisador de Gases Fluke VT650) com as curvas de pressão obtidas com o simulador https://girardi.blumenau.ufsc.br/sdvm/, para os mesmos parâmetros ventilatórios.
-
-**4) Calibração Dinâmica (valores experimentais)**
-
-Comparação das curvas de pressão com um sensor de reverência, com as curvas de pressão efetivamente medidas com o sensor MPX5500DP. Obs: o analisador  Fluke aparentemente só exporta com uma frequência de amostragem máxima de 1Hz, o que não dá uma boa resolução das curvas. A solução seria usar o sensor Magnamed Ventmeter que tem interface RS232.
 
 ## Cronologia do Desenvolvimento
 Data dos principais marcos do desenvolvimento do Ara-Plus
