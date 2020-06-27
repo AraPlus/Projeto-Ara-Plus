@@ -73,13 +73,22 @@ Este gráfico é plotagem dos dados mostrados na curva azul da Fig.1, porém dis
 
 4.5 - Dúvida: valeria a pena continuar correlacionando as pressões de ajuste das válvulas VAP e PEEP com o volume inspirado uma vez que o AraPlus não mede volume e a complacência do pulmão varia de paciente para paciente?
 
+## 2) Levantamento da freqüência de operação, e relações Ti:Te possíveis
 
-## 2) Levantamento da Relação de FIO2 e Fluxo de Oxigênio (Fluxímetro de parede)
+![](Tabela_RPM_Relação.jpeg)
+
+As freqüências e tempos foram levantada com base nos sensores instalados no acionamento mecânico.
+
+## 3) Levantamento da relação de tempos determinadas mecanicamente e pelas curvas de pressão pneumática
+
+Averiguar para diversas condições se os tempos Ti e Te medidos pelos sensores posicionados no eixo do motor corresponde aos tempos de Ti e Te medidos pela curva de pressão/ fluxo pneumático.
+
+## 4) Levantamento da Relação de FIO2 e Fluxo de Oxigênio (Fluxímetro de parede)
 
 Referência: GODOY, Armando Carlos Franco de; VIEIRA, Ronan José. Comparação da FiO2 fornecida por sete modelos de sistema balão-máscara auto-inflável. Rev. Bras. Anestesiol., Campinas , v. 59, n. 1, p. 21-27, Feb. 2009 . Available from <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-70942009000100004&lng=en&nrm=iso>. access on 22 June 2020. https://doi.org/10.1590/S0034-70942009000100004.
 
 
-## 3) Calibração Estática do Sensor de Pressão
+## 5) Calibração Estática do Sensor de Pressão
 
 ### Descrição
 
@@ -108,14 +117,14 @@ Foto do manômetro em U caseiro utilizado na calibração
 
 
 
-## 4) Calibração Dinâmica (valores simulados)
+## 6) Calibração Dinâmica (valores simulados)
 
 Comparação das curvas de pressão e volume obtidas com um sensor de reverência (Analisador de Gases Fluke VT650) com as curvas de pressão obtidas com o simulador https://girardi.blumenau.ufsc.br/sdvm/, para os mesmos parâmetros ventilatórios.
 
-## 5) Calibração Dinâmica (valores experimentais)
+## 7) Calibração Dinâmica (valores experimentais)
 
 Comparação das curvas de pressão com um sensor de reverência, com as curvas de pressão efetivamente medidas com o sensor MPX5500DP. Obs: o analisador  Fluke aparentemente só exporta com uma frequência de amostragem máxima de 1Hz, o que não dá uma boa resolução das curvas. A solução seria usar o sensor Magnamed Ventmeter que tem interface RS232.
 
-## 6) Determinação do procedimento de calibração do sensor de pressão embarcado
+## 8) Determinação do procedimento de calibração do sensor de pressão embarcado
 
 Estabelecer rotina de ajuste da calibração da medição de pressão. Procedimento de manutenção.
