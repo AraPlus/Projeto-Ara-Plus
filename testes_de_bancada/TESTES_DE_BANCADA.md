@@ -2,12 +2,11 @@
 
 ## 1) Levantamento preliminar da Relação PEEP x Pressão Expiratória Máxima (Vál. VAP) x Freq. Respiratória x Volume Inspirado
 
-### Descrição
+### Descrição da Fig. 1: 
 *Eixo x:* representa a leitura da pressão máxima no final da inspiração medida com o equipamento padrão ouro (Fluke).
 
 *Eixo y :* apresenta a pressão regulada na válvula VAP (azul) ou a pressão medida no sensor de pressão do AraPlus (laranja).
 
-### Resultados Fig. 1: 
 
 ![](teste_2020_06_21_fig1.jpeg)
 
@@ -23,12 +22,12 @@
 
 1.5 - Será necessário estabelecer procedimento de calibração (analógica e/ou digital)
 
-### Descrição
+### Descrição da Fig. 2:
+
 *Eixo x*: representa a leitura da pressão máxima no final da inspiração medida com o equipamento padrão ouro (Fluke).
 
 *Eixo y* : apresenta a pressão que foi ajustada manualmente nas válvulas VAP e PEEP em quatro condições: apenas a VAP (roxo), apenas a PEEP (cinza), VAP+PEEP (laranja) VAP-PEEP (azul)
 
-### Resultados Fig. 2:
 
 ![](teste_2020_06_21_fig2.jpeg)
 
@@ -40,14 +39,13 @@
 
 2.3 - A conclusão anterior leva a crer que ao regular a pressão na válvula VAP, o invés dela limitar a presão máxima ao final de inspiração, ela está funcionando como uma regulagem da Driving Pressure (DP), que é o delta de pressão que se coloca sobre a PEEP durante a inspiração (Pmax = DP + PEEP). 
 
-### Descrição
+### Descrição da Fig. 3:
+
 *Eixo x:* representa a pressão que foi ajustada manualmente na válvula VAP 
 
 *Eixo y:* representa a pressão de leitura do sensor padrão ouro (Fluke)
 
 Este gráfico é plotagem dos dados mostrados na curva azul da Fig.1, porém discretizados para diferente valores de ajuste da válvula PEEP
-
-### Resultados Fig. 3:
 
 ![](teste_2020_06_21_fig3.jpeg)
 
@@ -55,12 +53,12 @@ Este gráfico é plotagem dos dados mostrados na curva azul da Fig.1, porém dis
 3.1 – Hipótese: a pressão máxima (VAP) deve ser ajustada em função de curvas para cada valor de PEEP ajustado.
 
 
-### Descrição
+### Descrição da Fig. 4:
+
 *Eixo x:*  representa a diferença entre os dois valores ajustadoa manualmente entre VAP e PEEP
 
 *Eixo y:* volume inspirado com o sensor padrão ouro (fluke)
 
-### Resultados Fig. 4:
 
 ![](teste_2020_06_21_fig4.jpeg)
 
