@@ -1,5 +1,5 @@
 # Projeto-Ara-Plus
-Repositório de projeto de um AMBU automatizado desenvolvido por estudantes e alunos da Universidade Federal do ABC (UFABC) para substituir um ventilador pulmonar de forma emergencial nos casos de COVID-19. Este é um trabalho em desenvolvimento, e ainda não está apto para casos clínicos. Futuras atualizações devem ser lançadas em breve.
+Repositório de projeto de um AMBU automatizado desenvolvido por estudantes e professores da Universidade Federal do ABC (UFABC) para substituir um ventilador pulmonar de forma emergencial nos casos de COVID-19. Este é um trabalho em desenvolvimento, e ainda não está apto para casos clínicos. Futuras atualizações devem ser lançadas em breve.
 
 ## Origem do Nome
 O nome "Ara" vem do Tupi-Guarani e significa "ar". Portanto o nome Ara-Plus reune uma palava genuinamente brasileira com uma palavra do inglês reconhecida em todo o mundo, significando literalmente "mais ar".
