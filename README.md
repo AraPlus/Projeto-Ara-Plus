@@ -1,5 +1,5 @@
 # Projeto-Ara-Plus
-Repositório de projeto de um AMBU automatizado desenvolvido por estudantes e professores da Universidade Federal do ABC (UFABC) para substituir um ventilador pulmonar de forma emergencial nos casos de COVID-19. Este é um trabalho em desenvolvimento, e ainda não está apto para casos clínicos. Futuras atualizações devem ser lançadas em breve.
+Repositório de projeto de um AMBU automatizado desenvolvido por estudantes, pesquisadores e professores da Universidade Federal do ABC (UFABC) para substituir um ventilador pulmonar de forma emergencial nos casos de COVID-19. Este é um trabalho em desenvolvimento, e ainda não está apto para casos clínicos. Futuras atualizações devem ser lançadas em breve.
 
 ## Origem do Nome
 O nome "Ara" vem do Tupi-Guarani e significa "ar". Portanto o nome Ara-Plus reune uma palava genuinamente brasileira com uma palavra do inglês reconhecida em todo o mundo, significando literalmente "mais ar".
@@ -35,9 +35,10 @@ Descrição de todas os materiais e peças usados no Ara Plus separados por cate
  | A1 | 1 | Arduino Nano v3.x | 
  | BT1, BT2 | 2 | Bateria 12V/ 7Ah | 
  | BZ1 | 1 | Buzzer ativo 5V | 
- | C1, C3, C4 | 3 | Capacitor 0.33uF | 
- | C2, C5 | 2 | Capacitor 0.1uF | 
- | D1, D2, D3, D4, D5 | 5 | Diodo 1N4007 | 
+ | C1, C4, C5 | 3 | Capacitor 0.33uF | 
+ | C2, C6 | 2 | Capacitor 0.1uF | 
+ | C3, C7 | 2 | Capacitor 220u
+ | D1, D2, D3, D4, D5, D6, D7 | 7 | Diodo 1N4007 | 
  | M1 | 1 | Motor DC | 
  | Q1 | 1 | Transistor BC337 | 
  | RV1 | 1 | Trimpot 10K | 
