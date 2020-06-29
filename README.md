@@ -67,12 +67,15 @@ As informações sobre os desenhos de fabricação das partes mecânicas do AraP
 Propostas em estudo do circuito pneumático:
 
 ![](Images/pneumatico_proposta1.jpeg)
+
 **Tipo 1 - Com válvula VUP**
 
 ![](Images/pneumatico_proposta2.jpeg)
+
 **Tipo 2 - Com Diverter e a válvula VAP tampada de um lado**
 
 ![](Images/pneumatico_proposta_3.jpeg)
+
 **Tipo 3 - Com a hipótese do *Diverter* para encaixe na VAP**
 
 ## Fotos
