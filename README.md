@@ -146,6 +146,10 @@ Valor do financiamento: R$ 8.957,60
 
 [http://www.ufabc.edu.br/images/reitoria/documentos/edital-42_2020-chamada-de-propostas-covid-19.pdf]
 
+Esta projeto também conta com o apoio financeiro do IEEE HAC e IEEE SIGHT que apresentou um edital em resposta à pandemia da COVID-19.
+
+[https://hac.ieee.org/funding-opportunities/covid-19-projects/] <img src="./Images/Figuras/IEEE_HAC_SIGHT_72dpi.jpg" width="100"> 
+
 Maiores informações sobre editais com os respectivos projetos submetidos encontram-se [aqui](editais/EDITAIS.md).
 
 ## Lista de Compras 
