@@ -124,6 +124,7 @@ Estabelecer rotina de calibração do sensor de pressão. Procedimento de manute
 ## Cronologia do Desenvolvimento
 Data dos principais marcos do desenvolvimento do Ara-Plus
 
+- 10/07/2020: Decidida alteração do tipo de motor e projeto em função dos novos requisitos para uso clínico em combate à COVID-19 e dos resultados dos testes em laboratório ([detalhes](./testes_de_bancada/Resultados_Motor_DC.md)) 
 - 17/06/2020: Início dos testes do circuito médico/pneumático
 - 07/06/2020: Finalizada a montagem do circuito de acionamento e controle
 - 06/06/2020: Elaboração das propostas de circuito pneumático
@@ -135,7 +136,7 @@ Data dos principais marcos do desenvolvimento do Ara-Plus
 - 09/04/2019: Início do desenvolvimento do software
 - 06/04/2020: Submissão de projeto para edital interno de pesquisa
 - 03/04/2020: Testes do protótipo conceitual
-- 23/03/2020: Publicação do projeto conceitual (Tinkercad)
+- 23/03/2020: Publicação do projeto conceitual ([Tinkercad](https://www.tinkercad.com/things/d3R13CpPf5m ))
 - 19/03/2020: Formação do grupo de desenvolvimento 
 - 16/03/2020: Início da suspensão das aulas na UFABC devido à pandemia
 - 11/03/2020: Declaração de pandemia de COVID-19 pela OMS
