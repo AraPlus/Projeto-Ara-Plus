@@ -4,7 +4,7 @@ Estimar a relação de massas (e volume correlacionado) através da medição de
 
 ![](./Conceito.jpeg)
 
-Referências para verificação:
+## Referências para verificação:
 
 Godoy ACF, Vieira RJ, Neto RJV. Oxygen outflow delivered by manually operated self-inflating resuscitation bags in patients breathing spontaneously. J Bras Pneumol. 2008;34(4):212-216. Disponível em: [https://www.jornaldepneumologia.com.br/detalhe_artigo.asp?id=385]
 
