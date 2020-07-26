@@ -124,6 +124,7 @@ Estabelecer rotina de calibração do sensor de pressão. Procedimento de manute
 ## Cronologia do Desenvolvimento
 Data dos principais marcos do desenvolvimento do Ara-Plus
 
+- 25/07/2020: Proposta conceitual tecnológica para estimar FiO2 ([detalhes](./Titulação_FIO2/FIO2.md)) 
 - 10/07/2020: Decidida alteração do tipo de motor e projeto em função dos novos requisitos para uso clínico em combate à COVID-19 e dos resultados dos testes em laboratório ([detalhes](./testes_de_bancada/Resultados_Motor_DC.md)) 
 - 17/06/2020: Início dos testes do circuito médico/pneumático
 - 07/06/2020: Finalizada a montagem do circuito de acionamento e controle
@@ -169,6 +170,7 @@ Aqui encontram-se os principais termos e siglas usados no desenvolvimento deste 
 - Filtro HEPA  = High Efficiency Particulate Air 
 - Filtro HMEF
 - Filtro Humidificador
+- FiO2 - Fração Inspirada de Oxigênio ([molar ou em volume](https://en.wikipedia.org/wiki/Fraction_of_inspired_oxygen))
 - PEEP (Positive end-expiratory pressure) Pressão Positiva ao Final da Expiração [referência](https://en.wikipedia.org/wiki/Positive_end-expiratory_pressure)
 - Válvula VAP (?)
 - Válvula VUP
